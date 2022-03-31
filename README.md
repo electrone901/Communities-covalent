@@ -24,8 +24,9 @@ https://youtu.be/9RyMDFCMnbE
 
 https://communities-covalent.netlify.app/
 # How it's made
+We use:
 
-Community garden application makes use of the following softwares:
+`Covalent API endpoints` to get all NFTs balance and metadata from a wallet address such us images, contracts name, NFTs images and balances. 
 
 - `NFTStorage`for data storage on IPFS that generates a transation hash used to create an NFT of a photo.
 
@@ -48,17 +49,9 @@ Community garden application makes use of the following softwares:
 - `React Js, Material-ui, Web3` React Js for the frontend, Material-ui and Web3 to connect to blockchain.
 
 
-Main Page
-![Main Page](https://raw.githubusercontent.com/electrone901/plant-doctor/main/src/images/cover_.png)
 
-Plant Swaper Dex
-![Main Page](https://raw.githubusercontent.com/electrone901/plant-doctor/main/src/images/plantSwap.png)
-
-Community Profile
-![Main Page](https://raw.githubusercontent.com/electrone901/plant-doctor/main/src/images/community.png)
-
-Communities
-![Main Page](https://raw.githubusercontent.com/electrone901/plant-doctor/main/src/images/community%20list.png)
+Communities Using Covalent API to Fetch all NFTs from a wallet Address
+![Main Page](https://raw.githubusercontent.com/electrone901/Communities-covalent/master/preview.png)
 
 # Getting Started
 
